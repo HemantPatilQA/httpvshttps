@@ -1,0 +1,6 @@
+server:
+  ssl:
+    key-store: C:\Users\Heman\IdeaProjects\httpvshttps\src\main\resources\certificate\demokeystore
+    key-store-password: Test1234
+    key-alias: demokey
+  port: 8443
